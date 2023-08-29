@@ -1,0 +1,60 @@
+.from{
+    padding: 327px;
+    margin-top: 220px;
+    background: #F3F3F3;
+}
+.from_hedding_h2{
+    font-family: var(--font);
+    color: var(--title-color);
+    font-weight: 700;
+    font-size: 45px;
+    width: 470px;
+}
+.from_hedding_p{
+    font-family: var(--font);
+    color: #737373;
+    font-weight: 400;
+    font-size: 16px;
+}
+.from_lastpart{
+    border-radius: 10px;
+    background-color: #FFFF;
+}
+.forom__hedding_lasth2{
+    font-family: var(--font);
+    color: var(--title-color); 
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+}
+.form-label{
+    
+    
+    color: #151515;
+    font-weight: 500;
+     font-size: 16px;
+     display: block;
+     margin-left: 10px;
+}
+.from__placholder{
+    width: 450px;
+height: 64px;
+border-color: #E8E8E8;
+border-radius: 10px;
+margin-left: 10px;
+}
+.forom__button{
+    margin-left: 10px;
+}
+.forom__button button{
+    padding: 19px 140px;
+    width: 450px;
+height: 64px;
+border-radius: 10px;
+background-color: var(--color);
+border-color: var(--color);
+font-family: var(--font);
+color: #FFFFFF;
+font-weight: 600;
+font-size: 20px;
+}

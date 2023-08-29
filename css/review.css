@@ -1,0 +1,66 @@
+.review__hedding{
+    font-family: var(--font);
+    color: var(--title-color);
+    text-align: center;
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: 105px;
+
+}
+.review__p{
+    font-family: var(--font);
+    color: #737373;
+    font-weight: 400;
+    font-size: 16px; 
+    width: 620px;
+    text-align: center;
+    margin: 0 auto;
+}
+.review__row{
+    margin-top: 130px;
+}
+.revie__box{
+    border-radius: 5px;
+    background-color: #F4EFEF;
+}
+.reviw__text__p{
+    font-family: var(--font);
+    color: #7B7B7B;
+    font-weight: 400;
+    font-size: 16px; 
+    margin-top: 20px;
+    width: 400px;
+}
+.review__icon{
+    color: #F9BD2C;
+}
+.review__foter{
+    display: flex;
+}
+.review_img_foter{
+    margin-top: 20px;
+}
+.text__review__last{
+   
+    font-family: var(--font);
+    color: var(--title-color);
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.text__review__p{
+    margin-left: 32px;
+    color: #7B7B7B;
+    font-family: var(--font);
+    font-weight: 400;
+    font-size: 16px;
+}
+.text__review__p_last{
+    margin-left: 20px;
+    color: #7B7B7B;
+    font-family: var(--font);
+    font-weight: 400;
+    font-size: 16px; 
+}

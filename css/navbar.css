@@ -1,0 +1,48 @@
+.navbar{
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+}
+.navbar__logo{
+    width: 20%;
+    
+}
+.navbar__menu{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.navbar__items{
+    display: flex;
+    column-gap: 30px;
+    justify-content: center;
+   
+  
+    
+}
+.navbar__items li{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 18px; 
+    color: #FFFFFF;
+    transition: all linear 0.5s;
+}
+.navbar__items li:hover{
+    color: var(--color);
+}
+.navbar__button {
+    display: flex;
+    width: 20%;
+    justify-content: end;
+}
+.navbar__button button{
+    padding: 15px 42px;
+    border-radius: 10px;
+    background: var(--color);
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    border-color: var(--color);
+}

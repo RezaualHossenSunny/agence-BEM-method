@@ -1,0 +1,48 @@
+.agenc{
+    margin-top: 300px;
+}
+.agence__heding{
+    
+    color: var(--title-color);
+    font-family: var(--font);
+    font-size: 45px;
+    line-height: 54px;
+    width: 518px;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 700;
+
+}
+.agence__p{
+    margin-top: 20px;
+}
+.agence__heding__p{
+font-family: var(--font);
+color: #737373;
+
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+width: 802px;
+margin: 0 auto;
+}
+.idea_box{
+    margin-top: 120px;
+}
+.idea__title{
+    color: var(--title-color);
+    font-family: var(--font);
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.idea__p{
+    font-family: var(--font);
+    color: #737373;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.idea1{
+    margin-top: 88px;
+}

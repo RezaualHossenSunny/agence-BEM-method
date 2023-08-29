@@ -1,0 +1,76 @@
+.baner{
+    background-image: url(../img/agenc-Banner\ 1.png);
+    padding-top: 315px;
+    padding-bottom: 115px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: -1;
+   
+}
+.baner::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 1, 0.5);
+    z-index: -2;
+
+}
+.baner__titles{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 75px;
+     color: #FFFFFF;
+     width: 950px;
+     margin: 0 auto;
+     text-align: center;
+
+}
+.baner-discripson{
+    font-family: 'Inter', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    width: 621px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 40px;
+}
+.baner__button{
+    margin-top: 45px;
+    margin: 0 auto;
+    margin-top: 40px;
+    text-align: center;
+  
+}
+.baner__button button{
+    font-family: 'Inter', sans-serif;
+    padding: 15px 45px;
+    background: var(--color);
+    color: #FFFFFF;
+    border-color: var(--color);
+    border-radius: 10px;
+   
+    
+}
+.baner__icon {
+    justify-content: center;
+    
+    margin-top: 99px;
+    display: flex;
+    
+    
+}
+.baner__icon i{
+    color: #FFFFFF;
+    margin: 5px;
+    background-color:var(--color);
+    border-radius: 100px;
+    
+    
+    
+}
+
